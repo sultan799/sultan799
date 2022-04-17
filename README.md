@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Mohammed Sultanuddin,python,c++ developer.
-- 👀 Data curious, ML enthusiast and want to establish a career as a Data Scientist.
 - 🌱 Currently pursuing engineering in Computer Science.
-- 💞️ I’m looking to collaborate on Machine Learning and Data Science real life projects to simply real world problems.
+- 💞️ I’m looking to collaborate on real life projects to simply real world problems.
 - 📫 Let's connect on - https://www.linkedin.com/in/mohammed-sultan-uddin-b4b144179/
 
 <!---
